@@ -41,7 +41,7 @@ p{
     display: none;
     position: relative;
     padding:35px;
-    background-color: rgb(red, green, blue)
+    background-color: green;
     margin-bottom: 50px;
 }
 
@@ -49,13 +49,7 @@ p{
     display: block;
 }
 
-.img_button{
-    transition: 1s all;
-    cursor: pointer;
-    max-width: 900px;
-    margin: 0 auto 50px;
-    position: relative;
-}
+
 
 .img_button::after{
     content: "";
