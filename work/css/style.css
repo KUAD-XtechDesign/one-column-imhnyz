@@ -33,6 +33,13 @@ p{
     max-width: 900px;
     min-height: 80vh;
 }
+.txt{
+    text-align: center;
+    color: bisque;
+    padding: 5px;
+    width: auto;
+    font-size: medium;
+}
 
 
 .content{
