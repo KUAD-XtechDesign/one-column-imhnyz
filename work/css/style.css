@@ -25,9 +25,9 @@
 }
 
 .txt_img{
-    display: none;
+    display: flex;
     max-width: 900px;
-    min-height: 80vh;
+    min-height: 10vh;
 }
 .txt{
     text-align: center;
