@@ -39,9 +39,9 @@
 
 
 .content{
-    display: flex;
+    display: none;
     position: relative;
-    padding:35px;
+    padding:10px;
     background-color: green;
     margin-bottom: 50px;
 }
