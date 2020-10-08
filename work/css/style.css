@@ -58,7 +58,7 @@
     transition: 0.5s all;
     cursor: pointer;
     max-width: 600px;
-    margin: 0 auto 50px;
+    margin: 0 auto 10px;
     position: relative;
 }
 
