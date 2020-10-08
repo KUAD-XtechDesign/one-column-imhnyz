@@ -4,7 +4,7 @@ body{
 }
 
 .head {
-    font-size: 4rem;
+    font-size: 2rem;
     color: bisque;
     text-align: center;
 }
@@ -15,5 +15,19 @@ footer {
     text-align: center;
 }
 h2{
-    color
+    color: bisque
+    text-align: center;
+    font size : 1rem;
+}
+
+p{
+    line-height: 35px
+}
+
+.txt{
+    text-align: center;
+    color: bisque;
+    padding: 35px;
+    width: auto;
+    font-size: medium;
 }
