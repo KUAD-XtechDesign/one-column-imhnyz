@@ -26,7 +26,7 @@
 
 .txt_img{
     display: flex;
-    max-width: 900px;
+    max-width: 400px;
     min-height: 10vh;
 }
 .txt{
