@@ -5,10 +5,4 @@ $(function(){
   
       $("html, body").animate({scrollTop:target.offset().top}, "slow");
     })
-  
-    //class="close_button"の要素をクリックした時、その要素の親要素のclass="content"がスライドアップ非表示される
-    $(".close_button").on("mouseover",function(){
-      $(this).parent(".content").slidedown("slow");
-    })
-  
   });
