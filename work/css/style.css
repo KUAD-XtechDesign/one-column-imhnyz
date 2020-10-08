@@ -9,7 +9,9 @@ body{
     text-align: center;
 }
 
-
+img{
+    max-width: 100%;
+}
 
 footer {
     color: bisque;
@@ -38,8 +40,8 @@ p{
 .content{
     display: none;
     position: relative;
-    padding:35px
-    background-color: rebeccapurple;
+    padding:35px;
+    background-color: rgb(red, green, blue)
     margin-bottom: 50px;
 }
 
