@@ -28,12 +28,10 @@ p{
     line-height: 35px
 }
 
-.txt{
-    text-align: center;
-    color: bisque;
-    padding: 5px;
-    width: auto;
-    font-size: medium;
+.txt_img{
+    display: flex;
+    max-width: 900px;
+    min-height: 80vh;
 }
 
 
