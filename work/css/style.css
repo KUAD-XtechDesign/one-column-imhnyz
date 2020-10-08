@@ -32,7 +32,7 @@ body{
     margin: 10px 0;
     border-radius: 5px;
     background-color: rgb(255, 136, 0);
-    color: #fff;
+    color: rgb(255, 255, 255);
     cursor: pointer;
   }
   
@@ -43,7 +43,7 @@ body{
   
   .inline-block_test {
     display: inline-block;      /* インラインブロック要素にする */
-    background-color:  #ccc;    /* 背景色指定 */
+    background-color:  #99CC66
     padding:  20px;             /* 余白指定 */
     height: 100px;              /* 高さ指定 */
 }
