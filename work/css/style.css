@@ -1,4 +1,4 @@
-body{
+.body{
     background-color: #99CC66;
 
 }
@@ -9,22 +9,22 @@ body{
     text-align: center;
 }
 
-img{
+.img{
     max-width: 100%;
 }
 
-footer {
+.footer {
     color: bisque;
     font-size: 1rem;
     text-align: center;
 }
-h2{
+.h2{
     color: bisque
     text-align: center;
     font size : 1rem;
 }
 
-p{
+.p{
     line-height: 35px
 }
 
