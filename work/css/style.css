@@ -67,7 +67,7 @@
     display: block;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.5);
-    width: 200%;
+    width: 100%;
     height: 100%;
     top: 0;
     opacity: 0;
@@ -75,7 +75,7 @@
 }
 
 .img{
-    width: 20%;
+    width: 1%;
 }
 
 #img01{
