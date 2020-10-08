@@ -9,6 +9,14 @@ body{
     text-align: center;
 }
 
+img{
+    max-width: 100%;
+}
+
+.img_botton img{
+    display: block;
+}
+
 footer {
     color: bisque;
     font-size: 1rem;
@@ -30,4 +38,19 @@ p{
     padding: 5px;
     width: auto;
     font-size: medium;
+}
+
+.content{
+    display: none;
+    position: relative;
+background-color: #cccc99;
+margin-bottom: 50px;
+}
+
+.img_button{
+    transition: 1s all;
+    cursor: pointer;
+    max-width: 900px;
+    margin: 0 auto 50px;
+    position: relative;
 }
