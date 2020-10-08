@@ -46,7 +46,7 @@
 }
 
 .img_button img{
-    display: block;
+    display: flex;
 }
 
 
