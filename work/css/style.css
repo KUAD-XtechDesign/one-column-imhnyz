@@ -9,13 +9,7 @@ body{
     text-align: center;
 }
 
-img{
-    max-width: 100%;
-}
 
-.img_botton img{
-    display: block;
-}
 
 footer {
     color: bisque;
@@ -40,11 +34,17 @@ p{
     font-size: medium;
 }
 
+
 .content{
     display: none;
     position: relative;
-background-color: #cccc99;
-margin-bottom: 50px;
+    padding:35px
+    background-color: rebeccapurple;
+    margin-bottom: 50px;
+}
+
+.img_button img{
+    display: block;
 }
 
 .img_button{
@@ -64,7 +64,7 @@ margin-bottom: 50px;
     height: 100%;
     top: 0;
     opacity: 0;
-    transition: 0.5s opacity;
+    transition: 1s opacity;
 }
 
 .img_button:hover::after{
@@ -73,8 +73,4 @@ margin-bottom: 50px;
 
 .img{
     width: 20%;
-}
-
-#img01{
-    margin-top: 100px;
 }
