@@ -34,12 +34,12 @@
     color: bisque;
     padding: 5px;
     width: auto;
-    font-size: 35px;
+    font-size: medium;
 }
 
 
 .content{
-    display: none;
+    display: flex;
     position: relative;
     padding:35px;
     background-color: green;
