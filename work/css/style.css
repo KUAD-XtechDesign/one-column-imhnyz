@@ -51,7 +51,7 @@
 
 
 .img_button:hover::after{
-    opacity: 3;
+    opacity: 1;
 }
 
 .img_button{
@@ -67,7 +67,7 @@
     display: block;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.5);
-    width: 100%;
+    width: 200%;
     height: 100%;
     top: 0;
     opacity: 0;
